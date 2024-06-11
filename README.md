@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heloise-pp
+- 👋 Hi, I’m Heloise
 - 👀 I’m interested in ... Web development and data science
 - 🌱 I’m currently learning ... Web development
 - 💞️ I’m looking to collaborate on ...
